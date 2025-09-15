@@ -27,4 +27,4 @@ datos_temperaturas = {
 
 # Calcular promedios
 promedios = calcular_promedio_temperaturas(datos_temperaturas)
-print(promedios)
+print(promedios)  # {'Quito': 15.0, 'Guayaquil': 29.5, 'Cuenca': 18.0}
